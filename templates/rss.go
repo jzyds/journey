@@ -3,10 +3,10 @@ package templates
 import (
 	"bytes"
 	"github.com/kabukky/feeds"
-	"github.com/kabukky/journey/database"
-	"github.com/kabukky/journey/date"
-	"github.com/kabukky/journey/structure"
-	"github.com/kabukky/journey/structure/methods"
+	"github.com/jzyds/journey/database"
+	"github.com/jzyds/journey/date"
+	"github.com/jzyds/journey/structure"
+	"github.com/jzyds/journey/structure/methods"
 	"net/http"
 )
 
